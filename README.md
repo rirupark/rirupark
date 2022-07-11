@@ -6,10 +6,10 @@
 
 </div>
 
-<div align=center> <h3> Email </h3> </div>
+<div align=center> <h3> 📮 Email 📮 </h3> </div>
 <div align=center> mlnjv016@gmail.com </div>
 
-<div align=center> <h3> Record </h3> </div>
+<div align=center> <h3> 📊 Stats 📊 </h3> </div>
 
 
 <div align="center">
