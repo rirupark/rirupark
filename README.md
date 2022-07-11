@@ -8,13 +8,13 @@
 
 </br>
 
-<div align="center"> <h3> ☻ Email ☻ </h3> </div>
+<!-- <div align="center"> <h3> ☻ Email ☻ </h3> </div>
 
 <div align="center"> 
   mlnjv016@gmail.com
 </div>
 
-</br></br>
+</br></br> -->
 
 <div align="center"> <h3> ☻ Tech Stack ☻  </h3> </div>
 
