@@ -9,7 +9,7 @@
 <div align="center"> <h3> 📮 Email 📮 </h3> </div>
 
 <div align="center"> 
-  [![mlnjv016@gmail.com]](mailto:mlnjv016@gmail.com) 
+  mlnjv016@gmail.com
 </div>
 
 <div align="center"> <h3> 📊 Stats 📊 </h3> </div>
@@ -18,6 +18,7 @@
   
 [![Rirupark's GitHub stats](https://github-readme-stats.vercel.app/api?username=rirupark&show_icons=true&disable_animations=true&theme=cobalt)](https://github.com/rirupark)  
   
+</div>
 
 <!--
 **rirupark/rirupark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
