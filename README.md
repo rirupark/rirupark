@@ -1,6 +1,6 @@
 <div align=center> <h2> 🐥 Minju's Record 🐥 </h2> </div>
 
-<div align="center"> ![Rirupark's github stats](https://github-readme-stats.vercel.app/api?username=rirupark&show_icons=true&theme=cobalt) </div>
+<div align=center> [Rirupark's github stats](https://github-readme-stats.vercel.app/api?username=rirupark&show_icons=true&theme=cobalt) </div>
 
 
 
