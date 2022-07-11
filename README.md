@@ -1,5 +1,4 @@
-  ### 🐥 Minju's Record 🐥
-  *****
+  ## 🐥 Minju's Record 🐥
   ![Rirupark's github stats](https://github-readme-stats.vercel.app/api?username=rirupark&show_icons=true&theme=cobalt)
 
 
