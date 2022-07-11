@@ -2,7 +2,7 @@
 
 <!-- <div align=center> [![Rirupark's github stats](https://github-readme-stats.vercel.app/api?username=rirupark&show_icons=true&theme=cobalt) </div> -->
 
-<div align=center>
+<div align="center">
   [![Rirupark's GitHub stats](https://github-readme-stats.vercel.app/api?username=rirupark&show_icons=true&include_all_commits=true&disable_animations=true&theme=cobalt)](https://github.com/rirupark/github-readme-stats)  
 </div>
 
