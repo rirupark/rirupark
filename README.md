@@ -18,7 +18,8 @@
 
 <div align="center"> <h3> 🛠 Tech Stack 🛠  </h3> </div>
 
-<div align="center"> <img src="https://img.shields.io/badge/Swift-#F05138?style=flat-squaree&logo=Swift&logoColor=white"> </div>
+<div align="center"> <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"> </div>
+
 
 </br></br>
 
