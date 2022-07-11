@@ -16,6 +16,12 @@
 
 </br></br>
 
+<div align="center"> <h3> 🛠 Tech Stack 🛠  </h3> </div>
+
+<div align="center"> <img src="https://img.shields.io/badge/Swift-#F05138?style=for-the-badge&logo=Swift&logoColor=white"> </div>
+
+</br></br>
+
 <div align="center"> <h3> 📊 Stats 📊 </h3> </div>
 
 <div align="center">
