@@ -6,7 +6,6 @@
 
 </div>
 
-</br>
 
 <div align="center"> <h3> 📮 Email 📮 </h3> </div>
 
