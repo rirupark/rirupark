@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 </div>
 
-
+</br></br>
 
 <div align="center"> <h3> ☻ Stats ☻ </h3> </div>
 
