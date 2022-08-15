@@ -1,4 +1,4 @@
-<div align=center> <h2> 🐥 Minju's Github 🐥 </h2> </div>
+<div align=center> <h1> 🐥 Minju's Github 🐥 </h1> </div>
 
 <div align="center">
 
