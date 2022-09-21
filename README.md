@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 </div>
 
-</br>
+</br></br>
 
 <h3> ☻ Activities ☻  </h3>
     <li> 경상국립대학교 컴퓨터과학과 재학 ( 2019.03 ~ )</li>
@@ -32,7 +32,7 @@
     <li> USG 공유대학 비교과 프로그램 - 애플 앱 제작과정 ( 2022.03 ~ 2022.04 ) </li>
     <li> 멋쟁이사자처럼 앱 스쿨 1기 ( 2022.09 ~ ) </li>
 
-</br>
+</br></br>
 
 <h3> ☻ Stats ☻ </h3>
   
