@@ -37,5 +37,3 @@
 <h3> ☻ Stats ☻ </h3>
   
 [![Rirupark's GitHub stats](https://github-readme-stats.vercel.app/api?username=rirupark&show_icons=true&disable_animations=true&theme=cobalt)](https://github.com/rirupark)  
-
-</br>
