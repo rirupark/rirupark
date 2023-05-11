@@ -35,5 +35,5 @@
 </br></br>
 
 <h3> ☻ Stats ☻ </h3>
-  
-[![Rirupark's GitHub stats](https://github-readme-stats.vercel.app/api?username=rirupark&show_icons=true&disable_animations=true&theme=cobalt)](https://github.com/rirupark)  
+ 
+[![Rirupark's GitHub stats](https://github-readme-stats.vercel.app/api?username=rirupark&count_private=true&show_icons=true&theme=cobalt)](https://github.com/rirupark)
