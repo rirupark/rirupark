@@ -38,4 +38,6 @@
  
 [![Rirupark's GitHub stats](https://github-readme-stats.vercel.app/api?username=rirupark&count_private=true&show_icons=true&theme=cobalt)](https://github.com/rirupark)
 
+</br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=riru)](https://solved.ac/riru)
