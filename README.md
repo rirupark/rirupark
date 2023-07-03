@@ -41,5 +41,4 @@
 </br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=riru)](https://solved.ac/riru)
-
 </br>
