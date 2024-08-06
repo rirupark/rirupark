@@ -14,7 +14,7 @@
 </br></br> -->
 
 
-<h3> ☻ Tech Stack ☻  </h3>
+<!--<h3> ☻ Tech Stack ☻  </h3>
 
 <div> 
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"> 
@@ -29,11 +29,11 @@
 <h3> ☻ Activities ☻  </h3>
     <li> 멋쟁이사자처럼 앱 스쿨 1기 ( 2022.09 ~ 2023.02 ) </li>
     <li> USG 공유대학 비교과 프로그램 - 애플 앱 제작과정 ( 2022.03 ~ 2022.04 ) </li>
-    <li> 경상국립대학교 컴퓨터과학과 학사 ( 2019.03 ~ 2023.02 ) </li>
-
+    <li> 경상국립대학교 컴퓨터과학과 학사 ( 2019.03 ~ 2023.02 ) </li> -->
+<!--
 </br></br>
 
-<h3> ☻ Stats ☻ </h3>
+<h3> ☻ Stats ☻ </h3> -->
  
 [![Rirupark's GitHub stats](https://github-readme-stats.vercel.app/api?username=rirupark&count_private=true&show_icons=true&theme=cobalt)](https://github.com/rirupark)
 
